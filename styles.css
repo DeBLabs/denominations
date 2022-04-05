@@ -1,0 +1,12 @@
+body {
+  background: orange;
+}
+
+.row {
+  margin-top: 10px;
+}
+
+#result{
+  font-weight: bolder;
+  color: black;
+}
